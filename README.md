@@ -20,12 +20,17 @@
 
 ## 🧐 About <a name = "about"></a>
 
-En cours
+Peeks est un réseau social de partage de photos ou vous pouvez like et commenter les postes des autres utilisateurs.
+
 
 
 ## ⛏️ Techno <a name = "built_using"></a>
-* En cours
-
+* Mongodb
+* Express
+* REACT
+* NodeJS
+* MaterialUI
+* Redux
 
 
 ## ✍️ Collaborateurs <a name = "authors"></a>
